@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Jerems412Dev/Tip-calculator-app-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://tip-calculator-app-main-silk.vercel.app/)
 
 ### Built with
 
